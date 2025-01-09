@@ -10,10 +10,12 @@ This experiment is performed on Kaggle platform with GPU T4 x 2 and took about 1
 ## **Code**
 
 ### 0. **Download and extract the dataset files**
-!wget -q http://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz 
+```shell
+!wget -q http://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz
 !wget -q http://www.robots.ox.ac.uk/~vgg/data/flowers/102/imagelabels.mat  
 !wget -q http://www.robots.ox.ac.uk/~vgg/data/flowers/102/setid.mat  
 !tar -xvf 102flowers.tgz
+```
 ### 1. **Data exploratory**
 
 
