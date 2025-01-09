@@ -529,8 +529,6 @@ class Trainer:
 ```
 
 #### <p style="text-align:center"> ***IT'S TIME TO TRAIN THIS BAD BOY*** </p>
-*insert Let's fcking go ball meme here
-
 
 ```python
 # Set device and random seed
